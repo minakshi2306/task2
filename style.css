@@ -1,0 +1,45 @@
+body{
+    background-color:mediumspringgreen;
+     
+}
+
+#main{
+    height:550px;
+    width:550px;
+    border-top:30px solid red;
+    border-bottom:30px solid red;
+    border-left:30px solid transparent;
+    border-right:30px solid transparent;
+    border-radius: 50%;
+    position:fixed;
+    top:80px;
+    left:400px;
+    
+}
+
+#outer{
+    height:400px;
+    width:400px;
+    border-top:40px solid yellow;
+    border-bottom:40px solid yellow;
+    border-left:40px solid transparent;
+    border-right:40px solid transparent;
+    border-radius: 50%;
+    position:fixed;
+    top:150px;
+    left:465px;
+    
+}
+#inner{
+    height:250px;
+    width:250px;
+    border-left:15px solid black;
+    border-right:15px solid black;
+    border-top:15px solid transparent;
+    border-bottom:15px solid transparent;
+    border-radius: 50%;
+    position:fixed;
+    top:255px;
+    left:570px;
+    
+}
